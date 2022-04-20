@@ -4,7 +4,7 @@ This repository contains code from this [paper](https://arxiv.org/pdf/2010.06196
 * CUDA 11.3
 * Anacond3 Prompt
 * Python 3.9 and up.
-## Installing Dependencies by Creating a new Environment in Anaconda3 Prompt:
+## Installing Dependencies by Creating a New Environment in Anaconda3 Prompt:
 ```
 cd */NLP-Final-Presentation/Modified_MaKE_EMNLP2021 (or wherever you stored the repository)
 conda env create -f environment.yml
