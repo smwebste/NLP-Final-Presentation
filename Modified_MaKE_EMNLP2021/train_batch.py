@@ -1,7 +1,6 @@
 import subprocess
 '''
-BAD: "train_res.py", "train_with_reg.py",
-GOOD: 
+BAD: "train_res.py", "train_with_reg.py", 
 '''
 train = [
     "train_no_plan.py", 
