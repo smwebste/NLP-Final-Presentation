@@ -1,5 +1,5 @@
 # NLP Final Presentation Repository
-This repository contains code from this [paper](https://arxiv.org/pdf/2010.06196.pdf "paper") from the 2021 EMNLP Conference in an attempt to reproduce their experiment.
+This repository contains code from this [paper](https://arxiv.org/pdf/2010.06196.pdf "paper") from the 2021 EMNLP Conference in an attempt to reproduce the authors' experiment and validate their results.
 ## Requirements:
 * CUDA 11.3
 * Anacond3 Prompt
